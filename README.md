@@ -1,10 +1,11 @@
-# Fuzzing JavaScript WebAssembly APIs using Dharma/Domato (Chrome/v8)
+# Full blogpost
 
-[Full blogpost](https://webassembly-security.com/fuzzing-javascript-wasm-dharma-chrome-v8/)
+Check [Fuzzing JavaScript WebAssembly APIs using Dharma/Domato (on Chrome/v8)](https://webassembly-security.com/fuzzing-javascript-wasm-dharma-chrome-v8/)
 
 # Dharma WebAssembly grammar
 
-Check [here](dharma/wasm.dg).
+Available [here](dharma/wasm.dg).
+
 Result example [here](example_wasm_api.js)
 
 # Trainings & Contact
