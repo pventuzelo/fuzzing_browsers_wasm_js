@@ -5,6 +5,7 @@
 # Dharma WebAssembly grammar
 
 Check [here](dharma/wasm.dg).
+Result example [here](example_wasm_api.js)
 
 # Trainings & Contact
 
