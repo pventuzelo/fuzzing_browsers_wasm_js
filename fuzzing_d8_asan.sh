@@ -25,13 +25,14 @@ echo -e "${RED}[*] Crashes folder: crashes/${NC}"
 echo
 
 for i in `find "$seed_dir" -name "*.js" | sort -u`; do
-  echo -e "${RED}[*] TestCase: $i${NC}";
+  # echo -e "${RED}[*] TestCase: $i${NC}";
 
   # exec target with ASAN options
   ASAN_OPTIONS=${asan_op} ${target} ${target_param} $i > /dev/null
 
   # check if ASAN crash
   if [ $? -gt 0 ]; then
+    echo -e "${GREEN}[*] TestCase: $i${NC}";
     echo -e "${GREEN}[*][*] d8 ASAN crash${NC}"
     cp $i crashes/
   fi
