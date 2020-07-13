@@ -10,9 +10,9 @@ Result example [here](example_wasm_api.js)
 
 # Trainings & Contact
 
-Patrick Ventuzelo - [@pat_ventuzelo](https://twitter.com/pat_ventuzelo) - Independent Security Researcher.
+Patrick Ventuzelo - [@pat_ventuzelo](https://twitter.com/pat_ventuzelo) - Independent Security Researcher / Trainer.
 
+Consulting & trainings:
+* 4-days **WebAssembly security** training: [here](https://fuzzinglabs.com/trainings/)
+* 2-days **Rust security** training: [here](https://fuzzinglabs.com/rust-security-training/)
 
-More details about my trainings:
-* 4-days **WebAssembly security** training: [here](https://webassembly-security.com/trainings/)
-* 2-days **Rustlang security** training: [here](https://webassembly-security.com/rust-security-training/)
