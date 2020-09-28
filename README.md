@@ -1,6 +1,6 @@
 # Full blogpost
 
-Check [Fuzzing JavaScript WebAssembly APIs using Dharma/Domato (on Chrome/v8)](https://webassembly-security.com/fuzzing-javascript-wasm-dharma-chrome-v8/)
+Check [Fuzzing V8 Engine JavaScript WebAssembly API using Dharma](https://academy.fuzzinglabs.com/fuzzing-v8-engine-javascript-webassembly-api-using-dharma)
 
 # Dharma WebAssembly grammar
 
