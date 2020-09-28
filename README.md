@@ -1,4 +1,4 @@
-# Full blogpost
+# Full blogpost + video
 
 Check [Fuzzing V8 Engine JavaScript WebAssembly API using Dharma](https://academy.fuzzinglabs.com/fuzzing-v8-engine-javascript-webassembly-api-using-dharma)
 
